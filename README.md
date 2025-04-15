@@ -1,4 +1,4 @@
-# 🛍️ Fake Store App
+# 🛍️ Tienda Fake
 
 Este proyecto es una tienda en línea construida con **Vite**, **React** y **TypeScript**, usando la [Fake Store API](https://fakestoreapi.com/) para obtener productos.
 
